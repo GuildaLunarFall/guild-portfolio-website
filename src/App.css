@@ -15,15 +15,6 @@ video {
   position: absolute;
 }
 
-@media only screen and (max-width:321px) and (min-width:768px) {
-  video {
-    width: 100%;
-    height: auto;
-    z-index: -1;
-    position: absolute;
-  }
-}
-
 .main-button {
   height: 50px;
   display: flex;
